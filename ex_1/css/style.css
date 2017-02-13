@@ -14,7 +14,7 @@ h2 {
 h3 {
   color: white;
   font-family: Helvetica;
-  font-size: 20px;
+  font-size: 30px;
 }
 p {
    font-family: Helvetica;
@@ -27,3 +27,14 @@ a {
 img {
   opacity: 1;
 }
+  ol {
+    font-size: 25px;
+    font-family: helvetica;
+    color: maroon;
+  }
+  ul {
+    font-size: 25px;
+    font-family: helvetica;
+    color: maroon;
+  }
+  
