@@ -3,7 +3,6 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	box-sizing: content-box;
 	background-color: #F2F2F2;
 	margin: 0em 2em;
 }
@@ -15,17 +14,14 @@ div.inner img {
 	border: 1px solid black;
 }
 div.inner img:hover {
-	position:relative;
     width:25%;
-    height:auto;
-    display:inline;
 }
 
-#work {
+#Work {
 	width: 50%
 }
 
-#about {
+#About {
 	width: 50%;
 }
 
@@ -47,10 +43,8 @@ div.inner img:hover {
 }
 
 ul {
-    list-style-type: none;
     margin: 0;
-    padding: 0;
-    overflow: hidden;
+  
     background-color: #000;
     opacity: 0.8;
   	position: fixed;
